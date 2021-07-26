@@ -11,3 +11,27 @@ The publication could be found [here]() and its related slides could be found [h
 
 The work was kindly funded by EU project [ExaMode](https://www.examode.eu/).
 
+If you use the work please cite it using the following:
+
+```
+@inproceedings{DBLP:conf/icpr/DhrangadhariyaO20,
+author = {Anjani Dhrangadhariya and
+Sebastian Ot{\'{a}}lora and
+Manfredo Atzori and
+Henning M{\"{u}}ller},
+title = {Classification of Noisy Free-Text Prostate Cancer Pathology Reports
+Using Natural Language Processing},
+booktitle = {Pattern Recognition. {ICPR} International Workshops and Challenges
+- Virtual Event, January 10-15, 2021, Proceedings, Part {I}},
+series = {Lecture Notes in Computer Science},
+volume = {12661},
+pages = {154--166},
+publisher = {Springer},
+year = {2020},
+url = {https://doi.org/10.1007/978-3-030-68763-2\_12},
+doi = {10.1007/978-3-030-68763-2\_12},
+timestamp = {Tue, 23 Mar 2021 14:14:21 +0100},
+biburl = {https://dblp.org/rec/conf/icpr/DhrangadhariyaO20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
